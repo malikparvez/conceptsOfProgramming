@@ -29,9 +29,7 @@ public class GreatestOfThree {
 			
 	
 	
-	else if(c>a)
-	
-		if(c>b)
+	else 
 			System.out.println(c +" is largest of all");
 	
 	}
