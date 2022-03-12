@@ -1,5 +1,4 @@
 package day1Java;
-
 import java.util.Scanner;
 
 public class Palindrome {
